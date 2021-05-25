@@ -5,7 +5,7 @@ Domótica é um processo de integração das tecnologias de uma casa com objetiv
 
 ## Utilizações conhecidas
 Seguem algumas utilizações conhecidas e comuns da domótica:
-* Ligar e desligar lámpadas remotamente;
+* Ligar e desligar lâmpadas remotamente;
 * Controle de jogos de luz;
 * Controlar sistemas de aquecimento remotamente;
 * Controlar sistemas de alarme remotamente (câmeras, ativação e desativação de alarmes;
@@ -39,5 +39,6 @@ https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/;
 
 https://mundoeducacao.uol.com.br/informatica/domotica.htm;
 
-https://www.infoescola.com/tecnologia/domotica/;
+https://www.infoescola.com/tecnologia/domotica/.
 
+Imagem: https://www.beone.net.br/wp-content/uploads/2020/02/Depositphotos_159267608_xl-2015-1.jpg
