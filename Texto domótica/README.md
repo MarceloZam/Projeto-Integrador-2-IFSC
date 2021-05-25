@@ -28,6 +28,7 @@ Contudo, a área da domótica ainda enfrenta grande criticismo e controvérsias 
 
 Pelos motivos citados a cima a domótica acaba não sendo uma área muito procurada, afinal essa automação ainda tem bastante problemas que são gerados pela fragmentação do mercado e problemas de segurança com o uso da tecnologia, no entanto, é facil imaginar um fúturo onde a domótica seja algo essencial na vida dos seres humanos e pode-se ser considerada uma área de pesquisa que com a vinda de novas tecnologias irá receber bastante atenção e terá grande impacto na humanidade.
 
+![Domótica](https://www.beone.net.br/wp-content/uploads/2020/02/Depositphotos_159267608_xl-2015-1.jpg)
 
 ## Referências
 https://pt.wikipedia.org/wiki/Dom%C3%B3tica;
