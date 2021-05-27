@@ -1,7 +1,7 @@
 # Domótica
 
 ## O que é Domótica?
-Domótica é um processo de integração das tecnologias de uma casa com objetivo de facilitar o acesso e centralizar as informações dos eletrônicos de uma residência.
+Domótica é o processo de integração das tecnologias de uma casa com objetivo de facilitar o acesso e centralizar as informações dos eletrônicos de uma residência.
 
 ## Utilizações conhecidas
 Seguem algumas utilizações conhecidas e comuns da domótica:
