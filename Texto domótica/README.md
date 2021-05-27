@@ -8,7 +8,7 @@ Seguem algumas utilizações conhecidas e comuns da domótica:
 * Ligar e desligar lâmpadas remotamente;
 * Controle de jogos de luz;
 * Controlar sistemas de aquecimento remotamente;
-* Controlar sistemas de alarme remotamente (câmeras, ativação e desativação de alarmes;
+* Controlar sistemas de alarme remotamente (câmeras, ativação e desativação de alarmes);
 * Controle de portões e portas (por via de senha, tag eletrônica, aplicativo no celular e outros.);
 * Controle de sistemas de aúdio e som ambiente;
 * Etc.
