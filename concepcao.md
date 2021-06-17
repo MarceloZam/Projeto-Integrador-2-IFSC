@@ -11,12 +11,13 @@ Figura 1- Planta baixa da residência.
 
 ## Requisitos do projeto
 
-A principio temos 5 requisitos nesse projeto de domótica:
+A principio temos 4 requisitos nesse projeto de domótica:
 * Controlar a iluminação dos cômodos;
-* Controlar os LEDs de forma remota;
 * Sensor de presença para o jardim;
 * Sensor de gás;
 * Controle do portão remotamente.
+
+Tendo em mente que todo esse controle deve ser feito remotamente.
 
 Figura 2- Planta baixa da casa com os requisitos do projeto
 ![Figura 2- Planta baixa da residência 2.0.](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20casa%202.0.png)
