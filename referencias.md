@@ -8,4 +8,4 @@ https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/;
 
 https://mundoeducacao.uol.com.br/informatica/domotica.htm;
 
-https://www.infoescola.com/tecnologia/domotica/.
+Adami, Anna. **Domótica**. Disponível em:https://www.infoescola.com/tecnologia/domotica/. Acesso em: 5 jun. 2021. 
