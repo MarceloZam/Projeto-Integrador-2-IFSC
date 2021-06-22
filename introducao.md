@@ -5,6 +5,6 @@ A automação residencial também conhecida pelo termo domótica é uma área de
 
 # Em progresso.
   
-Proximas parte do projeto: 
+## Proximas parte do projeto: 
 * [Concepção do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/concepcao.md)
 * [Refêrencias](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/referencias.md)
