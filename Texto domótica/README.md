@@ -42,3 +42,9 @@ https://mundoeducacao.uol.com.br/informatica/domotica.htm;
 https://www.infoescola.com/tecnologia/domotica/.
 
 Imagem: https://www.beone.net.br/wp-content/uploads/2020/02/Depositphotos_159267608_xl-2015-1.jpg
+
+## Links sobre o conteúdo de domótica que podem interessar
+* [Introdução do projeto (em progresso)](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/introducao.md)
+* [Concepção do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/concepcao.md)
+* [Refêrencias](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/referencias.md)
+
