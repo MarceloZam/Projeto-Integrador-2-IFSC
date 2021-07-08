@@ -9,4 +9,4 @@ Figura 1- Maquete eletrônica do projeto
 * Detector de fumaça
 * Servomotor
 * 1 protoboard
-* 1 Arduino Uno 
+* 1 Arduino Mega 
