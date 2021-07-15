@@ -5,6 +5,7 @@ Figura 1- Maquete eletrônica do projeto
 
 ## Periféricos utilizados
 * 9 LED's
+* 9 Resistores
 * Sensor de movimento
 * Detector de fumaça
 * Servomotor
