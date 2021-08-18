@@ -1,6 +1,3 @@
-# Objetivo do projeto
-
-Utilizar da domótica para centralizar as informações e integrar as tecnologias uma residência com objetivo de facilitar a vida dos moradores da mesma. Durante os testes do projeto uma maquete será construida e utilizada para simular a residência.
 
 ## Planta baixa
 
