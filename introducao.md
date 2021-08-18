@@ -9,18 +9,14 @@ Figura 1 - Domótica
 Fonte: Site da B.One.
 
 ## Referências
-https://pt.wikipedia.org/wiki/Dom%C3%B3tica;
+DOMÓTICA. **Wikipedia**, 2021. Disponível em: <https://pt.wikipedia.org/wiki/Dom%C3%B3tica>. Acesso em: 25 maio. 2021.
 
-https://en.wikipedia.org/wiki/Home_automation;
+HOME AUTOMATION. **Wipideia**, 2021. Disponível em: <https://en.wikipedia.org/wiki/Home_automation>. Acesso em: 25 maio. 2021.
 
-https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/;
-
-https://mundoeducacao.uol.com.br/informatica/domotica.htm;
-
-https://www.infoescola.com/tecnologia/domotica/.
+Adami, Anna. Domótica. Disponível em: <https://www.infoescola.com/tecnologia/domotica/>. Acesso em: 25 maio. 2021.
 
 Imagem:
-Disponível em: <https://www.beone.net.br/>. Acesso em: 18 jun. 2021.
+Disponível em: <https://www.beone.net.br/>. Acesso em: 25 maio. 2021.
 
   
 ## Proximas parte do projeto: 
