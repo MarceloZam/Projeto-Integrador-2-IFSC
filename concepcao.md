@@ -16,16 +16,3 @@ Tendo em mente que todo esse controle deve ser feito remotamente.
 
 Figura 1- Planta baixa da casa com os requisitos do projeto
 ![Figura 2- Planta baixa da residência 2.0.](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20correta%202.png)
-
-
-
-## Referências
-https://pt.wikipedia.org/wiki/Dom%C3%B3tica;
-
-https://en.wikipedia.org/wiki/Home_automation;
-
-https://www.mundodaeletrica.com.br/domotica-o-que-e-quais-as-vantagens/;
-
-https://mundoeducacao.uol.com.br/informatica/domotica.htm;
-
-Adami, Anna. Domótica. Disponível em:https://www.infoescola.com/tecnologia/domotica/. Acesso em: 5 jun. 2021.
