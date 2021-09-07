@@ -29,8 +29,6 @@ int Estado_PIR = LOW; //Coloca o sensor de presença do seu estado desligado
 int PIR_VALUE; //
 int Limite_MQ2 = 400;
 int MQ2_VALUE;
-char Byte;
-int Posicao;
 Servo s;
 
 //Inicialização dos pinos
