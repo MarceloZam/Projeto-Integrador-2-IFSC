@@ -20,8 +20,24 @@ Figura 1 - Maquete eletrônica do projeto
 OBS: Diferente da maquete eletrônica, o buzzer utilizado nesse projeto possui 3 pinos, logo a entrada DO do sensor de gás e fumaça MQ2 é utilizada para representar a ligação da saída digital do buzzer.
 
 ## Teste dos componentes
-
+Na etapa de teste dos componentes foi realizado o teste do funcionamento dos componentes especificados anteriomente e os códigos especificos utilizados para testar o funcionamento dos mesmos.
 ### LED's e PIR
+Durante o teste dos LED's e Sensor de presença PIR, não foi detectado nenhum problema no funcionamento dos componentes, o objetivo do teste era ligar as 9 lampadas da casa (representadas por LED's verdes) e caso detectada uma presença na entrada da casa acender a luz do jardim utilizando do PIR e do Led numero 9.
+
+Os controles utilizados para a ativação e desativação manual dos LED's no programa é o seguinte:
+
+Tecla | Função
+--------- | ------
+1 | Led Quarto 1
+2 | Led Quarto 2
+3 | Led banheiro
+4 | Led corredor
+5 | Led sala de estar
+6 | Led cozinha
+7 | Led Area de serviço
+8 | Led Garagem
+9 | Led jardim
+
 Figura 2 - Sistema de iluminação
 ![Sistema de iluminação](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Sistema%20de%20ilumina%C3%A7%C3%A3o.png)
 
