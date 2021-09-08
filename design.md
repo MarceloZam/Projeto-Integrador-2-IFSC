@@ -202,6 +202,7 @@ void controle_sistema()
         Serial.println("Fechando o portão");
         s.write(27);
         break;
+        oi
     }
   }
 }
