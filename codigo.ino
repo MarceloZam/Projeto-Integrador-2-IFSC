@@ -62,7 +62,6 @@ void controle_sistema()
   if (Serial.available() > 0)
   {
     dados = Serial.read();
-    //Serial.print("Entrada recebida: ");
     Serial.println(dados);
     switch (dados)
     {
