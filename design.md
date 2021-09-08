@@ -17,12 +17,11 @@ Protoboard | 1
 
 Figura 1 - Maquete eletrônica do projeto
 ![Maquete eletrônica](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20eletr%C3%B4nica%20att.png)
-OBS: Diferente da maquete eletrônica, o buzzer utilizado nesse projeto possui 3 pinos, logo a entrada DO do sensor de gás e fumaça MQ2 é utilizada para representar a ligação da saída digital do buzzer.
 
 ## Teste dos componentes
 Na etapa de teste dos componentes foi realizado o teste do funcionamento dos componentes especificados anteriomente e os códigos especificos utilizados para testar o funcionamento dos mesmos.
 ### LED's e PIR
-Durante o teste dos LED's e Sensor de presença PIR, não foi detectado nenhum problema no funcionamento dos componentes, o objetivo do teste era ligar as 9 lampadas da casa (representadas por LED's verdes) e caso detectada uma presença na entrada da casa acender a luz do jardim utilizando do PIR e do Led numero 9.
+Durante o teste dos LED's e Sensor de presença PIR, não foi detectado nenhum problema no funcionamento dos componentes. O objetivo do teste era ligar as 9 lampadas da casa (representadas por LED's verdes) e caso detectada uma presença na entrada da casa acender a luz do jardim utilizando do PIR e do Led numero 9.
 
 Os controles utilizados para a ativação e desativação manual dos LED's no programa é o seguinte:
 
@@ -41,6 +40,7 @@ Tecla | Função
 Figura 2 - Sistema de iluminação
 ![Sistema de iluminação](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Sistema%20de%20ilumina%C3%A7%C3%A3o.png)
 
+Seguem os códigos utilizados para o teste:
 ~~~~C
 void controle_sistema()
 {
@@ -115,10 +115,23 @@ void Sensormov1(unsigned long tempo_atual) //Sensor de movimento (PIR)
 ~~~~
 
 ### MQ2 e Buzzer
+Durante os testes do MQ2 e do buzzer, não foi detectado nenhum problema com o funcionamento dos componentes. Neste teste o objetivo era conectar o sensor MQ2 (fumaça e gás) ao Buzzer passivo, fazendo com que caso seja detectado gás ou fumaça acima do limite proposto (Limite_MQ2) pelo usuario, o buzzer deve ser ativado assim avisando o dono da casa sobre a anormalidade detectada pelo sensor MQ2.
+
+OBS: Diferente da maquete eletrônica, o buzzer utilizado nesse projeto possui 3 pinos, logo a entrada DO do sensor de gás e fumaça MQ2 é utilizada para representar a saída digital do buzzer.
+
 Figura 3 - Controle de fumaça e gás
 ![Controle de fumaça e gás](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Controle%20de%20g%C3%A1s%20e%20fuma%C3%A7a.png)
 
+Tecla | Função
+--------- | ------
+F | Obtenção atual do valor do sensor MQ2
+
+Seguem os códigos utilizados para o teste:
 ~~~~C
+//Declaração das variáveis
+int Limite_MQ2 = 400;
+int MQ2_VALUE;
+
 void controle_sistema()
 {
   if (Serial.available() > 0)
@@ -150,9 +163,19 @@ void mq2(unsigned long tempo_atual) //Sensor de gás (MQ2+Buzzer)
 }       
 ~~~~
 ### Servomotor
+Durante o teste do Servomotor, não foi detectado nenhum problema com o funcionamento do componente. O objetivo deste teste é fazer com que o servomotor se movimente em 90º, para atingir esse objetivo começamos o código marcando a posição inicial do servo como 30º e durante o código movimentamos o servo até 120º. Ao utilizar a volta do servomotor como 30º, foi encontrada uma leve diferença da posição esperada, logo com intuito de achar a posição correta foi diminuido o angulo inicial para 27º.
+
+
+
 Figura 4 - Controle do servomotor
 ![Controle do servomotor](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Controle%20do%20servomotor.png)
 
+Tecla | Função
+--------- | ------
+g | Abre o portão para a posição de 120º
+G | Fecha o portão até a posição de 27º
+
+Segue o código utilizado para o teste:
 ~~~~C
 //Inclusão da(s) biblioteca(s)
 #include <Servo.h>
