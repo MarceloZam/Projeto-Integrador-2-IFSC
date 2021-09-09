@@ -1,6 +1,12 @@
 # Implementação
 
 ## Maquete
+Figura 1 - Maquete com as paredes exteriores
+![Maquete 1/2](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20com%20as%20paredes%20exteriores.jpeg)
+
+
+Figura 2 - Maquete completa
+![Maquete Completa](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20finalizada.jpeg)
 
 ### Instalação do hardware na maquete
 
