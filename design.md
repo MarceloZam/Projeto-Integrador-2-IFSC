@@ -97,14 +97,14 @@ void Sensormov1(unsigned long tempo_atual) //Sensor de movimento (PIR)
     PIR_VALUE = digitalRead(Sensormov);
     if (PIR_VALUE == HIGH)
     {
-      digitalWrite(LED_Jardim, HIGH);
+      digitalWrite(LED_Sensor, HIGH);
       if (Estado_PIR == LOW)
         Serial.println("Movimento detectado!");
       Estado_PIR = HIGH;
     }
     else
     {
-      digitalWrite(LED_Jardim, LOW);
+      digitalWrite(LED_Sensor, LOW);
       if (Estado_PIR == HIGH)
         Serial.println("Fim do movimento!");
       Estado_PIR = LOW;
