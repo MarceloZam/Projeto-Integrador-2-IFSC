@@ -14,8 +14,9 @@
 #define LED_Area_de_servico 28
 #define LED_Garagem 29
 #define LED_Jardim 30
+#define LED_Sensor 31
 #define MQ2 A5
-#define BUZZER 51
+#define BUZZER 50
 #define Servomotor 52
 #define Sensormov 53
 
@@ -47,6 +48,7 @@ void setup()
   pinMode(LED_Area_de_servico, OUTPUT);
   pinMode(LED_Garagem, OUTPUT);
   pinMode(LED_Jardim, OUTPUT);
+  pinMode(LED_Sensor, OUTPUT);
   pinMode(Sensormov, INPUT);
   pinMode(BUZZER, OUTPUT);
   pinMode(MQ2, INPUT);
@@ -126,14 +128,14 @@ void Sensormov1(unsigned long tempo_atual) //Sensor de movimento (PIR)
     PIR_VALUE = digitalRead(Sensormov);
     if (PIR_VALUE == HIGH)
     {
-      digitalWrite(LED_Jardim, HIGH);
+      digitalWrite(LED_Sensor, HIGH);
       if (Estado_PIR == LOW)
         Serial.println("Movimento detectado!");
       Estado_PIR = HIGH;
     }
     else
     {
-      digitalWrite(LED_Jardim, LOW);
+      digitalWrite(LED_Sensor, LOW);
       if (Estado_PIR == HIGH)
         Serial.println("Fim do movimento!");
       Estado_PIR = LOW;
