@@ -8,9 +8,14 @@ Figura 1 - Maquete com as paredes exteriores
 ![Maquete 1/2](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20com%20as%20paredes%20exteriores.jpeg)
 
 
-Figura 2 - Maquete completa
-![Maquete Completa](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20finalizada2.jpeg)
+Figura 2 - Maquete quase completa
+![Maquete Quase Completa](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20finalizada2.jpeg)
 
+Figura 3 - Maquete completa com os componentes
+![Maquete Completa](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20final%20off.jpeg)
+
+Figura 4 - Maquete completa com os LED's ligados
+![Maquete Completa On](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20final%20on.jpeg)
 ### Instalação do hardware na maquete
 A instalação do hardware na maquete ainda não foi realizada por falta dos jumpers necessários para alcançar a maquete.
 
