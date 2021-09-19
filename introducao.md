@@ -19,7 +19,7 @@ Imagem:
 Disponível em: <https://www.beone.net.br/>. Acesso em: 25 maio. 2021.
 
   
-## Proximas partes do projeto: 
+## Próximas etapas do projeto: 
 * [Concepção do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/concepcao.md)
 * [Design do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/design.md)
 * [Implementação do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/implementa%C3%A7%C3%A3o.md)
