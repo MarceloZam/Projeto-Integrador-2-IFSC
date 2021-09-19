@@ -54,4 +54,4 @@ void loop()
 ~~~~
 
 ## Próxima etapa do projeto
-* [Vídeo](https://youtu.be/z0c--w296pU)
+* [Operação](https://youtu.be/z0c--w296pU)
