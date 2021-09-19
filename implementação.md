@@ -53,7 +53,5 @@ Com intuito de certificar-se que as tarefas serão analisadas de maneira continu
 void loop()
 ~~~~
 
-## Vídeo
-A seguir segue um pequeno vídeo com intuito de demonstrar o funcionamento do projeto
-
-[Vídeo](https://youtu.be/z0c--w296pU)
+## Próxima etapa do projeto
+* [Vídeo](https://youtu.be/z0c--w296pU)
