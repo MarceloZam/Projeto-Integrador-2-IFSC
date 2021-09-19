@@ -18,7 +18,7 @@ A principio temos 4 requisitos nesse projeto de domótica:
 Figura 1- Planta baixa da casa com os requisitos do projeto
 ![Figura 2- Planta baixa da residência 2.0.](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/imagens/Maquete%20correta%202.png)
 
-## Proximas etapas do projeto 
+## Próximas etapas do projeto 
 * [Design do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/design.md)
 * [Implementação do projeto](https://github.com/MarceloZam/Projeto-Integrador-2-IFSC/blob/main/implementa%C3%A7%C3%A3o.md)
 * [Operação](https://youtu.be/z0c--w296pU)
